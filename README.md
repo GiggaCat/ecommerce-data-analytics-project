@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Data Analytics Project
 
-&lt;div align="center"&gt;
+
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange.svg)](https://pandas.pydata.org/)
@@ -9,9 +9,7 @@
 
 **Transforming raw transaction data into actionable business intelligence**
 
-[Key Insights](#-key-insights) • [Installation](#-installation) • [Usage](#-usage) • [Analysis](#-analysis)
 
-&lt;/div&gt;
 
 ---
 
@@ -29,6 +27,7 @@ This project delivers end-to-end data analytics solutions for e-commerce busines
 ---
 
 ## 🗂️ Repository Structure
+<pre>
 ecommerce-data-analytics-project/
 │
 ├── 📁 data/                    # Raw and processed datasets
@@ -55,7 +54,7 @@ ecommerce-data-analytics-project/
 │
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project documentation
-
+</pre>
 ## 📊 Key Insights
 
 ### 🏆 Customer Overview
